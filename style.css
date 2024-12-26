@@ -1585,3 +1585,7 @@ nav a:hover{
 .marketing-buttons{
     overflow-y: hidden;
 }
+
+.attribute img {
+    margin-block: 0;
+}
