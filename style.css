@@ -204,6 +204,10 @@ button {
     font-family: "Inter";
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Here starts the custimization */
 
 .header {
@@ -1589,3 +1593,4 @@ nav a:hover{
 .attribute img {
     margin-block: 0;
 }
+
